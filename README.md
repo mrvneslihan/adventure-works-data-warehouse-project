@@ -81,6 +81,15 @@ data-warehouse-project/
 └── LICENSE                             # License information for the repository
 ```
 ---
+
+## 📞 Contact Information
+
+For any questions, suggestions, or feedback, feel free to reach out:
+
+- **Email:** merveneslihan08@gmail.com
+- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/merveneslihanokcu)
+- **GitHub:** [My GitHub Profile](https://github.com/mrvneslihan)
+
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
